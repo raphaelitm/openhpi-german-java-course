@@ -1,0 +1,4 @@
+class Robot {
+    String task;
+
+}
